@@ -1,0 +1,22 @@
+# Xcode
+*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Build
+build/
+*.o
+*.d
+
+# CocoaPods / SPM
+Pods/
+.build/
+
+# macOS
+.DS_Store
